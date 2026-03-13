@@ -1,0 +1,65 @@
+# Java
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/resources/architecture.html
+!**/src/main/resources/Data_Dictionary.html
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/resources/rebel.xml
+
+### VS Code ###
+.vscode/
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for instrumentation default binary outputs
+out
+
+# Dependency directories
+jspm_packages/
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*.DS_Store
